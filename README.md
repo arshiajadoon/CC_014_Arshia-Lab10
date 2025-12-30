@@ -1,4 +1,4 @@
-Cloud Computing Lab 10 – Infrastructure as Code with Terraform & AWS
+Lab 10 – GH CLI Codespaces + AWS + Terraform: CLI Automation of VPC/Subnet Creation
 Student Name: Arshia Jadoon
 Roll Number: BSE-2023-014
 Course: Cloud Computing
